@@ -1,0 +1,8 @@
+node_
+node_modules
+\node_modules
+.\node_modules
+.\.angular
+.\.vscode
+.angular
+.vscode
